@@ -112,3 +112,7 @@ web-build/
 # Android/iOS builds
 frontend/android/
 frontend/ios/
+
+# Ignore Google Cloud Platform secret key
+gcp-key.json
+backend/src/main/resources/gcp-key.json
